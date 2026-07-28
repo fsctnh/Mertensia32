@@ -20,4 +20,14 @@ Possíveis atualizações futuras incluem:
 * Melhorar posicionamento de vias
 * Publicar BOM e Arquivos gerber para manufatura
 
-Isso é uma placa bem amadora. Manufature por sua própria conta e risco.
+**_Isso é uma placa bem amadora. Manufature por sua própria conta e risco._**
+
+# Imagens
+## Esquemática:
+![alt text](https://github.com/fsctnh/Mertensia32/blob/dd81cdb73c4c8b27ddba23150ceea8005d9483a2/schematicMertensia.png)
+
+## Render 3D:
+#### Vista de Cima:
+![alt text](https://github.com/fsctnh/Mertensia32/blob/dd81cdb73c4c8b27ddba23150ceea8005d9483a2/3dviewtop.png)
+#### Vista de Baixo:
+![alt text](https://github.com/fsctnh/Mertensia32/blob/dd81cdb73c4c8b27ddba23150ceea8005d9483a2/3dbiewbot.png)
