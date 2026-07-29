@@ -33,6 +33,8 @@ Possíveis atualizações futuras incluem:
 
 ## Configuração do Chip:
 ___(Feito com STM32CubeMX)___
+
+
 ![alt text](https://github.com/fsctnh/Mertensia32/blob/98eea7696beb9d2136c9893db0a6ed6fd118847f/Chip_Config.png)
 
 # Arquivos Adicionais:
