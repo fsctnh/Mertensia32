@@ -18,7 +18,6 @@ Agradecimento especial ao canal Phil's Lab (Philip Salmony) pelos tutoriais de K
 Possíveis atualizações futuras incluem:
 * Expor os pinos para inserção de componentes TH (Semelhante ao Arduino Pro Micro)
 * Melhorar posicionamento de vias
-* Publicar BOM e Arquivos gerber para manufatura
 
 **_Isso é uma placa bem amadora. Manufature por sua própria conta e risco._**
 
@@ -31,3 +30,12 @@ Possíveis atualizações futuras incluem:
 ![alt text](https://github.com/fsctnh/Mertensia32/blob/dd81cdb73c4c8b27ddba23150ceea8005d9483a2/3dviewtop.png)
 #### Vista de Baixo:
 ![alt text](https://github.com/fsctnh/Mertensia32/blob/dd81cdb73c4c8b27ddba23150ceea8005d9483a2/3dbiewbot.png)
+
+## Configuração do Chip:
+___(Feito com STM32CubeMX)___
+![alt text](https://github.com/fsctnh/Mertensia32/blob/98eea7696beb9d2136c9893db0a6ed6fd118847f/Chip_Config.png)
+
+# Arquivos Adicionais:
+A pasta de manufatura contém alguns arquivos além dos gerbers necessários pra manufatura:
+* ***BOM (Bill of Materials)***: Arquivo CSV contendo todos os componentes usados, em quais modelos e quais quantidades, alguns possuem datasheets e outros valores linkados;
+* ***Arquivos .pos***: Lista de coordenadas para cada peça, tanto SMD quanto TH. É usado pela máquina Pick and Place no processo de manufatura.
