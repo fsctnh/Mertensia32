@@ -10,6 +10,7 @@
 * Conector SWD TagConnect para ST-Link e Programador
 * Slot de antena RF para compatibilidade Bluetooth
 * Conector UART
+* Low Voltage (projetado para funcionar na faixa de 3.3v)
 * Design Compacto
 
 Essa placa foi uma tentativa minha de realizar um design compacto e minha primeira vez mexendo em múltiplas camadas, mesmo que relativamente pouco.
